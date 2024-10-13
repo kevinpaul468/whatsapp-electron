@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Whatsapp for linux
+Exec=/usr/share/whatsapp-electron-linux-x64/whatsappforlinux
+Icon=/usr/share/whatsapp-electron-linux-x64/resources/app/icon.png
+Type=Application
+Categories=internet;Application;
