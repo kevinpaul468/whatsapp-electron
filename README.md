@@ -21,7 +21,7 @@ electron-packager . whatsapp-electron --arch=x64
 ```
 linux installation
 ```
-sudo mv whatsapp-electron-linux-64 /usr/share/
+sudo mv whatsapp-electron-linux-x64 /usr/share/
 sudo mv whatsapp-electron.desktop /usr/share/applications
 ```
 
